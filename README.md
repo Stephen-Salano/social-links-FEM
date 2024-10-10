@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Stephen-Salano/social-links-FEM)
+- Solution URL: [Github repo](https://github.com/Stephen-Salano/social-links-FEM)
 
 ### Built with
 
