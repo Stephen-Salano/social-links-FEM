@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Inter';
     src: url(./assets/fonts/Inter-VariableFont_slnt\,wght.ttf) format('truetype');
-    font-weight: 400 700; /* range from 500 to 800 */
+    font-weight: 400 700; /* range from 400 to 700 */
 }
 
 :root{
@@ -18,14 +18,14 @@
 /* Desktop screen width*/
 @media (max-width: 375px) {
     #profile{
-        max-width: 20rem;
+        min-width: 20rem;
         height: auto;
     }
     
 }
 @media (max-width: 1440px) {
     #profile{
-        max-width: 24rem;
+        min-width: 24rem;
         height: auto;
     }
 }
@@ -49,7 +49,6 @@ body{
     display: flex;
     flex-direction: column;
     border-radius: 10px;
-    width: 24rem;
     margin-bottom: 20px;
 }
 main img{
